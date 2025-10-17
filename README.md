@@ -22,25 +22,26 @@ This project shows how scripting can automate routine communication tasks and de
 🗂 Project Structure
 ACIT4420_Assignment2/
 │
-├── main.py
-├── students.json
-├── setup.py
-├── test.py
-├── README.md   ← Detailed Documentation
+├── main.py                     # Main script integrating all modules
+├── students.json               # Dummy student data
+├── setup.py                    # Setup file for package installation
+├── test.py                     # Unit tests for modules
+├── README.md                   # Main project documentation
 │
-├── study_reminders/
+├── study_reminders/            # Package folder
 │   ├── __init__.py
 │   ├── students.py
 │   ├── students_manager.py
 │   ├── reminder_generator.py
 │   ├── reminder_sender.py
 │   ├── logger.py
-│   ├── scheduler.py
-│ 
+│   └── scheduler.py
 │
-├── reminder_log.txt
-├── Assignment2.Report.pdf  ← full report on implementation and reflection
-└── Assignment2_SourceFile.ipynb  ← Jupyter Notebook source for module execution
+├── reminder_log.txt            # Generated automatically after first run
+│
+├── Assignment2_Report.pdf      # Full report on implementation and reflection
+└── Assignment2_SourceFile.ipynb  # Jupyter Notebook source for module execution
+
 
 🚀 How to Run
 
