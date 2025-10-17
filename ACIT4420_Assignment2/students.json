@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "course": "Python Scripting",
+        "preferred_time": "08:00"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "course": "Data Science",
+        "preferred_time": "09:00"
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "course": "AI Basics",
+        "preferred_time": "07:30"
+    },
+    {
+        "name": "TestUser",
+        "email": "test@example.com",
+        "course": "AI",
+        "preferred_time": "10:00"
+    }
+]
