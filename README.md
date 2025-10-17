@@ -20,7 +20,8 @@ Schedule daily reminder delivery using the schedule library
 This project shows how scripting can automate routine communication tasks and demonstrates good software design practices such as modularity, logging, and data management.
 
 🗂 Project Structure
-ACIT4420_Assignment2/
+
+<pre> ACIT4420_Assignment2/
 │
 ├── main.py                     # Main script integrating all modules
 ├── students.json               # Dummy student data
@@ -41,6 +42,7 @@ ACIT4420_Assignment2/
 │
 ├── Assignment2_Report.pdf      # Full report on implementation and reflection
 └── Assignment2_SourceFile.ipynb  # Jupyter Notebook source for module execution
+ </pre>
 
 
 
